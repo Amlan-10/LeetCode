@@ -1,7 +1,5 @@
 package com.leetcode;
-
 import java.util.Scanner;
-
 public class Stocks2 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
