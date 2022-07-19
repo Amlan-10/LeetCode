@@ -1,5 +1,5 @@
 package com.leetcode;
-import java.util.Arrays;
+import java.util.Arrays; //O(nlog)(best-case)(time complexity)  O(n^2)(worst-case)
 import java.util.Scanner;
 public class quicksort {
     public static void main(String[] args) {
