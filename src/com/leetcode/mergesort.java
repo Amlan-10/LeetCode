@@ -40,7 +40,7 @@ public class mergesort {
             }
         }
         else{
-            while(i<=r){
+            while(i<=mid){
                 b[k]=a[i];
                 k++;i++;
             }
