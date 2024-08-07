@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amlan-10/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Amlan-10/LeetCode/tree/master/0020-valid-parentheses) |
+| [0273-integer-to-english-words](https://github.com/Amlan-10/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0424-longest-repeating-character-replacement](https://github.com/Amlan-10/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Amlan-10/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Amlan-10/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -83,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Amlan-10/LeetCode/tree/master/0074-search-a-2d-matrix) |
+## Math
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/Amlan-10/LeetCode/tree/master/0273-integer-to-english-words) |
+## Recursion
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/Amlan-10/LeetCode/tree/master/0273-integer-to-english-words) |
 <!---LeetCode Topics End-->
