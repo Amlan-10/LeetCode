@@ -4,7 +4,7 @@ class Solution {
         if(n==0){
             return 0;
         }
-        int l=0,r=0,maxlen=0,zeroes=0;
+        int l=0,r=0,maxlen=Integer.MIN_VALUE,zeroes=0;
         while(r<n){
             if(nums[r]==0){
                 zeroes++;
