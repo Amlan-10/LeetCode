@@ -5,7 +5,7 @@ class Solution {
             return 0;
         }
         int [] hash=new int[26];
-        Arrays.fill(hash,0);
+        // Arrays.fill(hash,0);
         int l=0,r=0,maxfreq=0,maxlen=0;
         while(r<n){
             hash[s.charAt(r)-'A']++;
