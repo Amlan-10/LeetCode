@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Amlan-10/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0287-find-the-duplicate-number](https://github.com/Amlan-10/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Amlan-10/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Counting
@@ -123,5 +124,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Amlan-10/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/Amlan-10/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
