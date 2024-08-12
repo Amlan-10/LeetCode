@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Amlan-10/LeetCode/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Amlan-10/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Greedy
 |  |
 | ------- |
@@ -126,4 +127,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Amlan-10/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/Amlan-10/LeetCode/tree/master/0206-reverse-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Amlan-10/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Amlan-10/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Amlan-10/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
