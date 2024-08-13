@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Amlan-10/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Amlan-10/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Amlan-10/LeetCode/tree/master/0162-find-peak-element) |
+| [0216-combination-sum-iii](https://github.com/Amlan-10/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Amlan-10/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0870-magic-squares-in-grid](https://github.com/Amlan-10/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Amlan-10/LeetCode/tree/master/0921-spiral-matrix-iii) |
@@ -148,4 +149,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Amlan-10/LeetCode/tree/master/0022-generate-parentheses) |
+| [0216-combination-sum-iii](https://github.com/Amlan-10/LeetCode/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
