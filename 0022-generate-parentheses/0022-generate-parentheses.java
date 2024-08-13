@@ -5,13 +5,13 @@ class Solution {
             return;
         }
         if(open>0){
-            st.append("(");
+            st.append('(');
             helper(open-1,close,ds,st);
             st.deleteCharAt(st.length()-1);
         }
         if(close>0){
             if(open<close){
-                st.append(")");
+                st.append(')');
                 helper(open,close-1,ds,st);
                 st.deleteCharAt(st.length()-1);
             }
