@@ -170,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Amlan-10/LeetCode/tree/master/0022-generate-parentheses) |
 | [0216-combination-sum-iii](https://github.com/Amlan-10/LeetCode/tree/master/0216-combination-sum-iii) |
+## Database
+|  |
+| ------- |
+| [1942-primary-department-for-each-employee](https://github.com/Amlan-10/LeetCode/tree/master/1942-primary-department-for-each-employee) |
 <!---LeetCode Topics End-->
