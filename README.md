@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Amlan-10/LeetCode/tree/master/0062-unique-paths) |
 | [0273-integer-to-english-words](https://github.com/Amlan-10/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/Amlan-10/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Amlan-10/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Amlan-10/LeetCode/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/Amlan-10/LeetCode/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/Amlan-10/LeetCode/tree/master/0198-house-robber) |
 ## Backtracking
 |  |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Amlan-10/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1942-primary-department-for-each-employee](https://github.com/Amlan-10/LeetCode/tree/master/1942-primary-department-for-each-employee) |
 | [2087-confirmation-rate](https://github.com/Amlan-10/LeetCode/tree/master/2087-confirmation-rate) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Amlan-10/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
