@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/Amlan-10/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Amlan-10/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Amlan-10/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/Amlan-10/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Amlan-10/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Amlan-10/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Amlan-10/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Amlan-10/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/Amlan-10/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Amlan-10/LeetCode/tree/master/0921-spiral-matrix-iii) |
+| [0967-minimum-falling-path-sum](https://github.com/Amlan-10/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 ## Math
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Amlan-10/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Amlan-10/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/Amlan-10/LeetCode/tree/master/0198-house-robber) |
+| [0967-minimum-falling-path-sum](https://github.com/Amlan-10/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 ## Backtracking
 |  |
 | ------- |
