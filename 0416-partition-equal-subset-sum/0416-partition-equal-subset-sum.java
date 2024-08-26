@@ -29,8 +29,8 @@ class Solution {
             return true;
         }
         
-        if (ind < 0 || target < 0) {
-            return false;
+        if (ind ==0) {
+            return nums[0]==target;
         }
         
         if (dp[ind][target] != -1) {
