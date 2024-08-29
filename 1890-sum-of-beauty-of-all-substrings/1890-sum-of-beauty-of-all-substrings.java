@@ -7,7 +7,7 @@ class Solution {
             int[] hash = new int[26];
             for (int j = i; j < n; j++) {
                 hash[s.charAt(j) - 'a']++;
-                int max = 0, min = Integer.MAX_VALUE;
+                int max = Integer.MIN_VALUE, min = Integer.MAX_VALUE;
                 for (int k = 0; k < 26; k++) {
                     if (hash[k] > 0) {
                         max = Math.max(max, hash[k]);
