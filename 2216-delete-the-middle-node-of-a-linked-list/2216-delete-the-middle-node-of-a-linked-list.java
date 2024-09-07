@@ -27,7 +27,7 @@ class Solution {
         while(temp.next!=mid){
             temp=temp.next;
         }
-        temp.next=temp.next.next;
+        temp.next=mid.next;
         return head;
     }
 }
