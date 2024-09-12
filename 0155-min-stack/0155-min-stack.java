@@ -1,24 +1,26 @@
-class Pair {
-    int x, y;
-    Pair(int x, int y) {
-        this.x = x;
-        this.y = y;
+class Pair{
+    int x;
+    int y;
+    Pair(int x,int y){
+        this.x=x;
+        this.y=y;
     }
 }
 class MinStack {
-    Stack < Pair > st;
+    Stack <Pair> st;
     public MinStack() {
-        st = new Stack < > ();
+        st=new Stack<>();
     }
     
-    public void push(int x) {
-        int min;
-        if (st.isEmpty()) {
-            min = x;
-        } else {
-            min = Math.min(st.peek().y, x);
+    public void push(int val) {
+        int min=Integer.MAX_VALUE;
+        if(st.isEmpty()){
+            min=val;
         }
-        st.push(new Pair(x, min));
+        else{
+            min=Math.min(val,st.peek().y);
+        }
+        st.push(new Pair(val,min));
     }
     
     public void pop() {
