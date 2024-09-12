@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Amlan-10/LeetCode/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Amlan-10/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0155-min-stack](https://github.com/Amlan-10/LeetCode/tree/master/0155-min-stack) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Amlan-10/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
 |  |
@@ -237,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Amlan-10/LeetCode/tree/master/0100-same-tree) |
 | [0322-coin-change](https://github.com/Amlan-10/LeetCode/tree/master/0322-coin-change) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Amlan-10/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
