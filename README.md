@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Amlan-10/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Amlan-10/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Amlan-10/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Amlan-10/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Amlan-10/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Amlan-10/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Sliding Window
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Amlan-10/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Amlan-10/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Amlan-10/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Amlan-10/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Amlan-10/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Hash Table
 |  |
@@ -94,17 +96,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Amlan-10/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/Amlan-10/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Amlan-10/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Amlan-10/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/Amlan-10/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Amlan-10/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Amlan-10/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Amlan-10/LeetCode/tree/master/0049-group-anagrams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Amlan-10/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Amlan-10/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Amlan-10/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Amlan-10/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
@@ -136,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Amlan-10/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Amlan-10/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/Amlan-10/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Amlan-10/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Bit Manipulation
