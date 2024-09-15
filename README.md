@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Amlan-10/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Amlan-10/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Amlan-10/LeetCode/tree/master/0518-coin-change-ii) |
+| [0735-asteroid-collision](https://github.com/Amlan-10/LeetCode/tree/master/0735-asteroid-collision) |
 | [0870-magic-squares-in-grid](https://github.com/Amlan-10/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Amlan-10/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Amlan-10/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Amlan-10/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Amlan-10/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Amlan-10/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0735-asteroid-collision](https://github.com/Amlan-10/LeetCode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/Amlan-10/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Amlan-10/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Amlan-10/LeetCode/tree/master/0735-asteroid-collision) |
 | [0921-spiral-matrix-iii](https://github.com/Amlan-10/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Amlan-10/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 ## Linked List
