@@ -1,10 +1,12 @@
-import java.util.*;
-
+import java.util.ArrayList;
+import java.util.List;
+import java.util.concurrent.locks.Lock;
+import java.util.concurrent.locks.ReentrantLock;
 
 public class LockingTree {
     int[] locked, par;
     List<Integer>[] adj;
-    Lock lock = new ReentrantLock(); // Lock for thread safety
+    Lock mtx = new ReentrantLock(); // Lock for thread safety
 
     @SuppressWarnings("unchecked")
     public LockingTree(int[] parent) {
@@ -27,29 +29,29 @@ public class LockingTree {
     }
 
     public boolean lock(int num, int user) {
-        lock.lock();  // Lock for thread safety
+        mtx.lock();  // Lock for thread safety
         try {
             if (locked[num] != -1) return false;
             locked[num] = user;
             return true;
         } finally {
-            lock.unlock();
+            mtx.unlock();
         }
     }
 
     public boolean unlock(int num, int user) {
-        lock.lock();  // Lock for thread safety
+        mtx.lock();  // Lock for thread safety
         try {
             if (locked[num] == -1 || locked[num] != user) return false;
             locked[num] = -1;
             return true;
         } finally {
-            lock.unlock();
+            mtx.unlock();
         }
     }
 
     public boolean checkDescendant(int node) {
-        lock.lock();  // Lock for thread safety
+        mtx.lock();  // Lock for thread safety
         try {
             if (locked[node] != -1) return true;
             for (int child : adj[node]) {
@@ -57,24 +59,24 @@ public class LockingTree {
             }
             return false;
         } finally {
-            lock.unlock();
+            mtx.unlock();
         }
     }
 
     public void unlockAllDescendants(int node) {
-        lock.lock();  // Lock for thread safety
+        mtx.lock();  // Lock for thread safety
         try {
             if (locked[node] != -1) locked[node] = -1;
             for (int child : adj[node]) {
                 unlockAllDescendants(child);
             }
         } finally {
-            lock.unlock();
+            mtx.unlock();
         }
     }
 
     public boolean upgrade(int num, int user) {
-        lock.lock();  // Lock for thread safety
+        mtx.lock();  // Lock for thread safety
         try {
             // Check if any ancestors are locked
             for (int node = num; node != -1; node = par[node]) {
@@ -91,7 +93,13 @@ public class LockingTree {
             locked[num] = user;
             return true;
         } finally {
-            lock.unlock();
+            mtx.unlock();
         }
     }
 }
+// ```
+
+// ### Explanation:
+// 1. **Thread Safety**: We use the `ReentrantLock` in Java, which is functionally similar to C++'s `std::mutex`.
+// 2. **Lock Mechanism**: For ensuring thread safety, the `mtx.lock()` and `mtx.unlock()` methods are used to wrap critical sections of the code, ensuring that only one thread at a time can access or modify shared data.
+// 3. **Array Initialization**: In Java, `ArrayList` is used instead of `std::vector` for adjacency lists. We use `@SuppressWarnings("unchecked")` to handle generic array creation.
