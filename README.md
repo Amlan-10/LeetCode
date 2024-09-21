@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Amlan-10/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Amlan-10/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Amlan-10/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2104-operations-on-tree](https://github.com/Amlan-10/LeetCode/tree/master/2104-operations-on-tree) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Amlan-10/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Amlan-10/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Sliding Window
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Amlan-10/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Amlan-10/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Amlan-10/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2104-operations-on-tree](https://github.com/Amlan-10/LeetCode/tree/master/2104-operations-on-tree) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Amlan-10/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Amlan-10/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
@@ -203,12 +205,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Amlan-10/LeetCode/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Amlan-10/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Amlan-10/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [2104-operations-on-tree](https://github.com/Amlan-10/LeetCode/tree/master/2104-operations-on-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Amlan-10/LeetCode/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Amlan-10/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Amlan-10/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [2104-operations-on-tree](https://github.com/Amlan-10/LeetCode/tree/master/2104-operations-on-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -256,12 +260,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Amlan-10/LeetCode/tree/master/0100-same-tree) |
 | [0322-coin-change](https://github.com/Amlan-10/LeetCode/tree/master/0322-coin-change) |
+| [2104-operations-on-tree](https://github.com/Amlan-10/LeetCode/tree/master/2104-operations-on-tree) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Amlan-10/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Amlan-10/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Amlan-10/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [2104-operations-on-tree](https://github.com/Amlan-10/LeetCode/tree/master/2104-operations-on-tree) |
 ## Queue
 |  |
 | ------- |
