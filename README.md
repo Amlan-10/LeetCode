@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Amlan-10/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/Amlan-10/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Amlan-10/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/Amlan-10/LeetCode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Amlan-10/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Amlan-10/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Amlan-10/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Amlan-10/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Amlan-10/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Amlan-10/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0289-game-of-life](https://github.com/Amlan-10/LeetCode/tree/master/0289-game-of-life) |
 | [0870-magic-squares-in-grid](https://github.com/Amlan-10/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Amlan-10/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/Amlan-10/LeetCode/tree/master/0967-minimum-falling-path-sum) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/Amlan-10/LeetCode/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/Amlan-10/LeetCode/tree/master/0735-asteroid-collision) |
 | [0921-spiral-matrix-iii](https://github.com/Amlan-10/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Amlan-10/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
