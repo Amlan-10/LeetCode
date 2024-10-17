@@ -1,10 +1,20 @@
 class Solution {
     public int singleNonDuplicate(int[] nums) {
-        int n=nums.length;
-        int x=0;
-        for(int i=0;i<n;i++){
-            x=x^nums[i];
+        int n = nums.length;
+        int l = 0;
+        if(n==1) return nums[0];
+        else if(nums[n-1]!=nums[n-2]){
+            return nums[n-1];
         }
-        return x;
+        else n--;
+        while(n>=0){
+            if(nums[l]==nums[l+1]){
+                l+=2;
+            }
+            else{
+                return nums[l];
+            }
+        }
+        return -1;
     }
 }
