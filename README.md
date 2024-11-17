@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Amlan-10/LeetCode/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/Amlan-10/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/Amlan-10/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Amlan-10/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Amlan-10/LeetCode/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/Amlan-10/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Amlan-10/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Amlan-10/LeetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Amlan-10/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Amlan-10/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Amlan-10/LeetCode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Amlan-10/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/Amlan-10/LeetCode/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/Amlan-10/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Amlan-10/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Amlan-10/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Amlan-10/LeetCode/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/Amlan-10/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Amlan-10/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Amlan-10/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Amlan-10/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
