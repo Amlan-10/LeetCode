@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Amlan-10/LeetCode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/Amlan-10/LeetCode/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/Amlan-10/LeetCode/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/Amlan-10/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Amlan-10/LeetCode/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/Amlan-10/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/Amlan-10/LeetCode/tree/master/0283-move-zeroes) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Amlan-10/LeetCode/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Amlan-10/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Amlan-10/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Amlan-10/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Amlan-10/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Amlan-10/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Amlan-10/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Amlan-10/LeetCode/tree/master/0062-unique-paths) |
+| [0189-rotate-array](https://github.com/Amlan-10/LeetCode/tree/master/0189-rotate-array) |
 | [0273-integer-to-english-words](https://github.com/Amlan-10/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/Amlan-10/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Amlan-10/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
