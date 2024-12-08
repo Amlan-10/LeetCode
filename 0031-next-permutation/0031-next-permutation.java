@@ -4,42 +4,41 @@ class Solution {
         a[i] = a[j];
         a[j] = temp;
     }
-    public void nextPermutation(int[] a) {
-        int n=a.length;
-        int index = -1;
-        for (int i = n - 2; i >= 0; i--) {
-            if (a[i] < a[i + 1]) {
-                index = i;
+    public void nextPermutation(int[] nums) {
+        int n=nums.length;
+        int ind=-1;
+        for(int i=n-2;i>=0;i--){
+            if(nums[i]<nums[i+1]){
+                ind=i;
                 break;
             }
         }
-
-        if (index == -1) {
-            List<Integer> ans = new ArrayList<>();
-            for (int num : a) {
+        if(ind==-1){
+            ArrayList<Integer> ans=new ArrayList<>();
+            for(int num:nums){
                 ans.add(num);
             }
             Collections.reverse(ans);
-            for (int i = 0; i < ans.size(); i++)
-            a[i] = ans.get(i);
-        }
-        else{
-
-        for (int i = n - 1; i > index; i--) {
-            if (a[i] > a[index]) {
-                swap(a, i, index);
-                break;
+            for(int i=0;i<n;i++){
+                nums[i]=ans.get(i);
             }
         }
-
-        List<Integer> ans = new ArrayList<>();
-        for (int num : a) {
-            ans.add(num);
+        else{
+            for(int i=n-1;i>=0;i--){
+                if(nums[i]>nums[ind]){
+                    swap(nums,i,ind);
+                    break;
+                }
+            }
+            List<Integer> ans = new ArrayList<>();
+            for (int num : nums) {
+                ans.add(num);
+            }
+            List<Integer> sublist=ans.subList(ind+1,n);
+            Collections.reverse(sublist);
+            for(int i=0;i<n;i++){
+                nums[i]=ans.get(i);
+            }
         }
-        List<Integer> sublist = ans.subList(index + 1, n);
-        Collections.reverse(sublist);
-        for (int i = 0; i < ans.size(); i++)
-            a[i] = ans.get(i);
     }
-}
 }
