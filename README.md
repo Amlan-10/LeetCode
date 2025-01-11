@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Amlan-10/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Amlan-10/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Amlan-10/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1502-construct-k-palindrome-strings](https://github.com/Amlan-10/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Amlan-10/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Amlan-10/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2104-operations-on-tree](https://github.com/Amlan-10/LeetCode/tree/master/2104-operations-on-tree) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Amlan-10/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Amlan-10/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Amlan-10/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1502-construct-k-palindrome-strings](https://github.com/Amlan-10/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Amlan-10/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Amlan-10/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Amlan-10/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Amlan-10/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1502-construct-k-palindrome-strings](https://github.com/Amlan-10/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Amlan-10/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Amlan-10/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Amlan-10/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Amlan-10/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Amlan-10/LeetCode/tree/master/0135-candy) |
+| [1502-construct-k-palindrome-strings](https://github.com/Amlan-10/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Amlan-10/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/Amlan-10/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Amlan-10/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
