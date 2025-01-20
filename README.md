@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Amlan-10/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Amlan-10/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2358-number-of-ways-to-split-array](https://github.com/Amlan-10/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Amlan-10/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Sliding Window
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Amlan-10/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2104-operations-on-tree](https://github.com/Amlan-10/LeetCode/tree/master/2104-operations-on-tree) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Amlan-10/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Amlan-10/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Amlan-10/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/Amlan-10/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/Amlan-10/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Amlan-10/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Amlan-10/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Math
 |  |
 | ------- |
