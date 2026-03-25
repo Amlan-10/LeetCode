@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Amlan-10/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2358-number-of-ways-to-split-array](https://github.com/Amlan-10/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Amlan-10/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Amlan-10/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Amlan-10/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Amlan-10/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2358-number-of-ways-to-split-array](https://github.com/Amlan-10/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Amlan-10/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Sorting
 |  |
 | ------- |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/Amlan-10/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Amlan-10/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Amlan-10/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Amlan-10/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Math
 |  |
 | ------- |
@@ -421,4 +424,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/Amlan-10/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Amlan-10/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Enumeration
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/Amlan-10/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 <!---LeetCode Topics End-->
